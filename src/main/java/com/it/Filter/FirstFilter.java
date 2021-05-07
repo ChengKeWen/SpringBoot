@@ -13,9 +13,9 @@ public class FirstFilter implements Filter {
 
     @Override
     public void doFilter(ServletRequest servletRequest, ServletResponse servletResponse, FilterChain filterChain) throws IOException, ServletException {
-        System.out.println("--------------FirstFilter-------------");
+        System.out.println("--------------FirstFilter start-------------");
         filterChain.doFilter(servletRequest,servletResponse);
-        System.out.println("--------------FirstFilter-------------");
+        System.out.println("--------------FirstFilter end-------------");
     }
 
     @Override
