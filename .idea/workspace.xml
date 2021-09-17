@@ -1,29 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8585468b-d880-4379-a496-c7815aa1e4e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/it/Filter/FirstFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/it/SpringBootDemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/it/controller/SpringBootController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/SpringBoot.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/it/Filter/FirstFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/it/SpringBootDemoApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/it/controller/SpringBootController.class" afterDir="false" />
+    <list default="true" id="8585468b-d880-4379-a496-c7815aa1e4e1" name="Default Changelist" comment="dev-001">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/it/config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/it/enums/RedisTopicEnums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/it/service/OrderAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/it/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/it/service/OrderServiceTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/it/service/Subscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/it/service/imp/HealthySubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/it/service/imp/OrderServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/it/service/imp/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/it/SpringbootRedisTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/it/config/RedisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/it/controller/SpringBootController$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/it/enums/RedisTopicEnums.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/it/service/OrderAbstract.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/it/service/OrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/it/service/OrderServiceTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/it/service/Subscriber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/it/service/imp/HealthySubscriber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/it/service/imp/OrderServiceImp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/it/service/imp/Publisher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/it/controller/SpringBootController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/it/controller/SpringBootController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/SpringBoot.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/it/Filter/FirstFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/it/Filter/FirstFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/it/controller/SpringBootController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/it/controller/SpringBootController.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,74 +46,56 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/it/Filter/FirstFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/it/controller/SpringBootController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/it/SpringBootDemoApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1631890092" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="dev" />
+                    <option name="lastUsedInstant" value="1631890062" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -117,12 +113,20 @@
       </list>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Apache\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="119" />
     <option name="y" value="97" />
     <option name="width" value="1767" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectId" id="1xRvFOQHsVuu3b5u255ECdY3w1A" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -179,6 +183,10 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -187,27 +195,65 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.it.service" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.SpringBootDemoApplication">
+    <configuration name="SpringBootController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.it.controller.SpringBootController" />
+      <module name="SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootRedisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.it" />
+      <option name="MAIN_CLASS_NAME" value="com.it.SpringbootRedisTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootRedisTest.testValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.it" />
+      <option name="MAIN_CLASS_NAME" value="com.it.SpringbootRedisTest" />
+      <option name="METHOD_NAME" value="testValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringBootDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="SpringBoot" />
       <extension name="coverage">
@@ -224,9 +270,14 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.SpringBootDemoApplication" />
+        <item itemvalue="JUnit.SpringbootRedisTest.testValue" />
+        <item itemvalue="JUnit.SpringbootRedisTest" />
+        <item itemvalue="Application.SpringBootController" />
+        <item itemvalue="Spring Boot.SpringBootDemoApplication" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -241,7 +292,22 @@
       <workItem from="1619667291344" duration="9962000" />
       <workItem from="1619934924055" duration="2097000" />
       <workItem from="1619948989513" duration="5661000" />
+      <workItem from="1630330612488" duration="3262000" />
+      <workItem from="1631103796319" duration="2747000" />
+      <workItem from="1631542364534" duration="844000" />
+      <workItem from="1631618797535" duration="667000" />
+      <workItem from="1631705886049" duration="6578000" />
+      <workItem from="1631795948916" duration="4759000" />
+      <workItem from="1631879503832" duration="2446000" />
     </task>
+    <task id="LOCAL-00001" summary="dev-001">
+      <created>1630333466369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630333466369</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -297,7 +363,23 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dev-001" />
+    <option name="LAST_COMMIT_MESSAGE" value="dev-001" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
